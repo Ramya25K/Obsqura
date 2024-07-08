@@ -1,9 +1,9 @@
-/*package inheritanceassign;
+package inheritanceassign;
 
 public class TotalSalary extends PaySlip implements Calculate{
-//	int basic;
-//	int deduct;
-//	int bonus;
+	int basic;
+	int deduct;
+	int bonus;
 	double hra;
 	double pf;
 	
@@ -47,4 +47,4 @@ public class TotalSalary extends PaySlip implements Calculate{
 		// TODO Auto-generated method stub
 		return pf;
 	}
-}*/
+}
